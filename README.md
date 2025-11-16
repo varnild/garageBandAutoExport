@@ -1,7 +1,7 @@
 # GarageBand Export Script
 
 A Bash script to batch export GarageBand `.band` projects into MP4 files and optionally copy the raw audio files, fully organized and with optional step-by-step control.
-
+This will work only for .band that contains one single audio file, I use garage band to record my band on an Iphone (and a Line6 mike), this script allows to export the audio file by batch and saves me a lot of time
 ---
 
 ## Features
